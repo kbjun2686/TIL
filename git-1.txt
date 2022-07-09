@@ -1,0 +1,9 @@
+pull
+push
+clone
+commit
+원격repo
+로컬repo
+버전관리
+add/staging
+tracking
